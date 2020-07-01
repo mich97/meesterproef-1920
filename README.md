@@ -40,7 +40,7 @@ Some addittional documenatation can be found on our [Gitbook](https://reinier-va
 - [Use Cases from existing app](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/use-cases-huidige-versie)
 - [Possible new Use Cases](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/nieuwe-use-cases)
 - [Lunchbox/onboarding wizard research](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/documentatie-lunchbox)
-- [Customar Journeys](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/customer-journeys)
+- [Customer Journeys](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/customer-journeys)
 - [Tasks for enhancing the front-end](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/enhancing-the-frontend)
 
 ## Team
