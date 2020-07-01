@@ -18,10 +18,22 @@ The second part of the assigment was to develop what they originally called 'The
 ## [Wiki](https://github.com/mich97/meesterproef-1920/wiki)
 Most of the documentation for this project can be found in the [wiki](https://github.com/mich97/meesterproef-1920/wiki). The documenteation includes the following articles:
 
-- Debriefing
-- Design Rationale
-- Productbriography
-- Course Rubric
+* [Debriefing](https://github.com/mich97/meesterproef-1920/wiki/0.0-Debriefing)
+* [Design Rationele](https://github.com/mich97/meesterproef-1920/wiki/1.0-Design-Rationale)
+* Productbiopgraphy 🌱
+  * [Week 1](https://github.com/mich97/meesterproef-1920/wiki/2.1-Week-1)
+  * [Week 2](https://github.com/mich97/meesterproef-1920/wiki/2.2-Week-2)
+  * [Week 3](https://github.com/mich97/meesterproef-1920/wiki/2.3-Week-3)
+  * [Week 4](https://github.com/mich97/meesterproef-1920/wiki/2.4-Week-4)
+  * [Week 5](https://github.com/mich97/meesterproef-1920/wiki/2.5-Week-5)
+* Course Rubric 🤓
+  * [Web App From Scratch](https://github.com/mich97/meesterproef-1920/wiki/3.1-Web-App-From-Scratch)
+  * [CSS to the Rescue](https://github.com/mich97/meesterproef-1920/wiki/3.2-CSS-to-the-Rescue)
+  * [Progressive Web Apps](https://github.com/mich97/meesterproef-1920/wiki/3.3-Progressive-Web-Apps)
+  * [Browser Technologies](https://github.com/mich97/meesterproef-1920/wiki/3.4-Browser-Technologies)
+  * [Real Time Web](https://github.com/mich97/meesterproef-1920/wiki/3.5-Real-Time-Web)
+  * [Web Design](https://github.com/mich97/meesterproef-1920/wiki/3.6-Web-Design)
+* [Reflection](https://github.com/mich97/meesterproef-1920/wiki/4.0-Reflection)
 
 ## Additional documentation
 Some addittional documenatation can be found on our [Gitbook](https://reinier-van-limpt.gitbook.io/lyvup-complimenten-app/nieuwe-use-cases). It includes the following articles:
